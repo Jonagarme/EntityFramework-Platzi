@@ -9,6 +9,7 @@
       "WebApplication1/1.0.0": {
         "dependencies": {
           "EntityFramework": "6.4.4",
+          "Microsoft.EntityFrameworkCore": "6.0.22",
           "Microsoft.EntityFrameworkCore.InMemory": "6.0.22",
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.22"
         },
